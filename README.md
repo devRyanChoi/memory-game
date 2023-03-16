@@ -11,6 +11,8 @@ I have kept the styling at a bare miniumum for you to go wild and make it your o
 
 |Feature|Description|
 |--|--|
+|Feature1|<img width="800" alt="You found a match" src="https://user-images.githubusercontent.com/120599634/225661438-33275d74-aea1-419e-a743-e14f664405d9.png"><br>Feature1. Game capture image1|
+|Feature2|<img width="800" alt="Sorry try again" src="https://user-images.githubusercontent.com/120599634/225662040-c1270e1e-d869-48d9-be35-fa9a2299c8dc.png"><br>Feature2. Game capture image2|
 
 
 ## What inbuilt functions are we going to focus on?
